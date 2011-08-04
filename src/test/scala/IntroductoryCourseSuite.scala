@@ -6,8 +6,8 @@ import org.junit.runner.RunWith
 @RunWith(classOf[JUnitRunner])
 class IntroductoryCourseSuite extends Suite {
   override def nestedSuites = List(
-    new IntroToClasses,
-    new IntroToMethods
+//    new IntroToClasses,
+//    new IntroToMethods,
 //    new IntroToLists,
 //    new IntroToCollectionMethods,
 //    new IntroToInterfaces,
